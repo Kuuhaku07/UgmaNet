@@ -1,6 +1,7 @@
 import "package:cloud_firestore/cloud_firestore.dart";
 import 'package:UgmaNet/visual/Screens/feed.dart';
 //hablame, se ve?
+//segundo intento
 FirebaseFirestore db = FirebaseFirestore.instance;
 
 Future<List> getUsuarios() async {
